@@ -4222,8 +4222,8 @@ particlesJS('particles-js',
         "random": false,
         "anim": {
           "enable": false,
-          "speed": 2,
-          "opacity_min": 0.1,
+          "speed": 3,
+          "opacity_min": 0.2,
           "sync": false
         }
       },
