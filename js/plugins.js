@@ -4222,7 +4222,7 @@ particlesJS('particles-js',
         "random": false,
         "anim": {
           "enable": false,
-          "speed": 3,
+          "speed": 4,
           "opacity_min": 0.2,
           "sync": false
         }
